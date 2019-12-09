@@ -1,0 +1,366 @@
+@charset "utf-8";
+/* CSS Document */
+
+/******************************
+
+[Table of Contents]
+
+1. 1600px
+2. 1440px
+3. 1280px
+4. 1199px
+5. 1024px
+6. 991px
+7. 959px
+8. 880px
+9. 768px
+10. 767px
+11. 539px
+12. 479px
+13. 400px
+
+******************************/
+
+/************
+1. 1600px
+************/
+
+@media only screen and (max-width: 1600px)
+{
+	.intro_content
+	{
+		width: 600px;
+		right: -100px;
+	}
+}
+
+/************
+2. 1440px
+************/
+
+@media only screen and (max-width: 1440px)
+{
+	
+}
+
+/************
+3. 1380px
+************/
+
+@media only screen and (max-width: 1380px)
+{
+	
+}
+
+/************
+3. 1280px
+************/
+
+@media only screen and (max-width: 1280px)
+{
+	
+}
+
+/************
+4. 1199px
+************/
+
+@media only screen and (max-width: 1199px)
+{
+	.main_nav
+	{
+		margin-left: 70px;
+	}
+	.main_nav ul li:not(:last-child)
+	{
+		margin-right: 35px;
+	}
+	.intro_content
+	{
+		position: relative;
+		top: auto;
+		-webkit-transform: none;
+		-moz-transform: none;
+		-ms-transform: none;
+		-o-transform: none;
+		transform: none;
+		right: auto;
+		margin-bottom: 102px;
+		width: 100%;
+	}
+	.dish_price
+	{
+		margin-left: 0px;
+	}
+}
+
+/************
+4. 1100px
+************/
+
+@media only screen and (max-width: 1100px)
+{
+	
+}
+
+/************
+5. 1024px
+************/
+
+@media only screen and (max-width: 1024px)
+{
+	
+}
+
+/************
+6. 991px
+************/
+
+@media only screen and (max-width: 991px)
+{
+	
+	.sig_content_container
+	{
+		position: relative;
+		top: auto;
+		left: auto;
+		-webkit-transform: none;
+		-moz-transform: none;
+		-ms-transform: none;
+		-o-transform: none;
+		transform: none;
+		width: 100%;
+		z-index: 1;
+		margin-bottom: 102px;
+	}
+	.sig_image
+	{
+		height: auto;
+	}
+	.sig_image .background_image
+	{
+		display: none;
+	}
+	.sig_image img
+	{
+		display: none;
+	}
+	
+}
+
+/************
+7. 959px
+************/
+
+@media only screen and (max-width: 959px)
+{
+	
+}
+
+/************
+8. 880px
+************/
+
+@media only screen and (max-width: 880px)
+{
+	
+}
+
+/************
+9. 768px
+************/
+
+@media only screen and (max-width: 768px)
+{
+	
+}
+
+/************
+10. 767px
+************/
+
+@media only screen and (max-width: 767px)
+{
+	
+	.intro_content
+	{
+		padding-left: 49px;
+	}
+	.intro_col:not(:last-child)
+	{
+		margin-bottom: 30px;
+	}
+	
+}
+
+/************
+11. 575px
+************/
+
+@media only screen and (max-width: 575px)
+{
+	.mobil
+	{
+		display: none;
+	}
+	
+	.mobil1
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	
+	.mobil2
+	{
+		
+		margin: 0;
+		margin-top: 10%;
+		margin-left: 15%;
+	}
+	
+	.mobil02
+	{
+		margin-top: 10%;
+		
+	}
+	
+	.mobil3
+	{
+		
+		margin-left: -100px;
+		
+	}
+	
+	.mobil4
+	{
+		text-align: left;
+		margin: 0;
+		
+	}
+	
+	.mobilc
+	{
+		align-items: center;
+		text-align: center !important;
+		margin-left: auto;
+		margin-right: auto;
+		margin: 20px;
+	}
+	.mobilt
+	{
+		margin-left: auto;
+		margin-right: auto;
+		margin: 20px;
+	}
+	
+	.m22 {
+    width: 100%;
+	}
+	
+	.mobilb {
+	  display: block;
+	  float: left;
+	  position: relative;
+	  width: 200px;
+	  height: 100px;
+	  line-height: 100px;
+	  text-align: center;
+	}
+	
+	.brands-area
+	{
+		
+		align-items: left;
+		
+	}
+	
+	.intro_content
+	{
+		padding-left: 30px;
+	}
+	.intro_subtitle
+	{
+		font-size: 20px;
+	}
+	.intro_title h2
+	{
+		font-size: 32px;
+	}
+	.intro_text
+	{
+		margin-top: 20px;
+	}
+	.intro_image
+	{
+		display: none;
+	}
+	.intro_image2
+	{
+		display: none;
+	}
+	.sig_content_container
+	{
+		margin-bottom: 82px;
+	}
+	.sig_content
+	{
+		padding-left: 30px;
+		padding-right: 30px;
+		padding-top: 52px;
+		padding-bottom: 62px;
+	}
+	.sig_subtitle
+	{
+		font-size: 14px;
+	}
+	.sig_title h1
+	{
+		font-size: 24px;
+	}
+	.sig_text h3
+	{
+		font-size: 14px;
+	}
+	.sig_name,
+	.sig_price
+	{
+		font-size: 20px;
+	}
+	
+}
+
+/************
+11. 539px
+************/
+
+@media only screen and (max-width: 539px)
+{
+	
+}
+
+/************
+12. 480px
+************/
+
+@media only screen and (max-width: 480px)
+{
+	
+}
+
+/************
+13. 479px
+************/
+
+@media only screen and (max-width: 479px)
+{
+	
+}
+
+/************
+14. 400px
+************/
+
+@media only screen and (max-width: 400px)
+{
+	
+}
