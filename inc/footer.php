@@ -19,7 +19,7 @@
 
                             <!-- Contact Area -->
                             <div class="footer-contact-info">
-                                <p><i class="zmdi zmdi-map"></i> Hotspur Sdn. Bhd., No 10, Jalan 5/10F, Seksyen 13, 43600 Bandar Baru Bangi, Selangor.</p>
+                                <p><i class="zmdi zmdi-compass"></i> Hotspur Sdn. Bhd., No 10, Jalan 5/10F, Seksyen 13, 43600 Bandar Baru Bangi, Selangor.</p>
                                 <p><i class="zmdi zmdi-phone"></i> 0123456789</p>
                             </div>
                         </div>
